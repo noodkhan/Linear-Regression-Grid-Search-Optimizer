@@ -4,7 +4,6 @@ A lightweight, dependency-free implementation of single-variable Linear Regressi
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge\&logo=python)
 ![Neural Network](https://img.shields.io/badge/Neural%20Network-From%20Scratch-purple?style=for-the-badge)
-![MNIST](https://img.shields.io/badge/Dataset-MNIST-orange?style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-Not%20Used-success?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Not%20Used-success?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Not%20Used-success?style=for-the-badge)
