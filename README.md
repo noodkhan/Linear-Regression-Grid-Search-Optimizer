@@ -89,6 +89,7 @@ print(f"Learned Parameters: w = {w}, b = {b}")
 | `prediction_error(...)` | Calculates single point residual error | $e = y_{\text{pred}} - y_{\text{actual}}$ |
 | `mean_squared_error(...)` | Computes average squared error over dataset | $\frac{1}{N} \sum (y - \hat{y})^2$ |
 | `find_best_parameters(...)` | Grid search algorithm for optimal parameters | Sweeps $w \in [-10, 10]$, $b \in [-10, 10]$ |
+<img width="543" height="520" alt="1_dkpb3XSLslX9IjIAGrSYsA" src="https://github.com/user-attachments/assets/be64a60f-0960-48fd-8e55-1dd9490f2d96" />
 
 ---
 
